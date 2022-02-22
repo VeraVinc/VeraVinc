@@ -1,4 +1,4 @@
-Hi, I'm @VeraVinc 👋 
+Hi, I'm Vera 👋 
 
 I'm a data scientist based in Zurich, Switzerland :switzerland:
 
